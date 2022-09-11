@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/MinatoNamikaze02/GoBlockchain/src"
+	"github.com/MinatoNamikaze02/GoBlockchain/goBlockchain"
 	"time"
 	// "container/list"
 	"net/http"
